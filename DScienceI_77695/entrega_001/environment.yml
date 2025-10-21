@@ -10,6 +10,8 @@ dependencies:
   - jupyterlab=4.4.7
   - ipykernel=6.30.1
   - notebook=7.4.5
+  - scikit-learn=1.7.2
+  - nbconvert=7.16.6
   - pip
   - pip:
-    - python-dotenv  # Para cargar variables del archivo .env
+      - python-dotenv # Para cargar variables del archivo .env
